@@ -7,7 +7,7 @@
 
 - I am learning **Node JS, ExpressJS, Mongo DB**
 
-- 📫 You cam mail me from here **uritisaiabhishek@chronopegasus.com**
+- 📫 You cam mail me from here **info@chronopegasus.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
