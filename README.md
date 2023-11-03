@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uriti Sai Abhishek</h1>
 <h3 align="center">I am a Full stack developer (React - Php - MySQL)</h3>
 
-- 👨‍💻 All of my projects are available at [uritisaiabhishek.chronopegasus.com](uritisaiabhishek.chronopegasus.com)
-
 - 💬 Ask me about **Reactjs, Javascript, php, mysql**
-
-- I am learning **Node JS, ExpressJS, Mongo DB**
-
-- 📫 You cam mail me from here **info@chronopegasus.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
